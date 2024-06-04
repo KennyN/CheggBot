@@ -14,9 +14,9 @@ While the bot provided a convenient way to access Chegg.com content, changes in 
 Although this project is deprecated, you can still explore the code and understand how it works.
 
 # Prerequisites:
-Node.js
-Playwright
-Discord.js
+- Node.js
+- Playwright
+- Discord.js
 
 # License:
 This project is licensed under the MIT License.
